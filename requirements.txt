@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+altair
+nltk
+contractions
+biopython
+translate 
+keras
+tensorflow
+spacy==3.7.4
+thinc
